@@ -1,5 +1,3 @@
-# gulp-demo
-
 # 项目的安装与启动
 
 **1、检查node、npm、npx是否已安装并正确安装**
@@ -17,8 +15,10 @@
 ​	`gulp img`
 
 **5、项目启动， 执行gulp命令**
+
  `gulp`
 
 ​**6、打包成zip格式**
+
  `gulp zip`
 
