@@ -8,5 +8,5 @@ const config = require('../config');
 module.exports = function() {
   return src(config.dest + '{js/**,css/**,images/**,**/*.html}')
     .pipe(zip('dist.zip'))
-    .pipe(dest(config.dest));
+    .pipe(dest('./'));
 };

@@ -24,7 +24,6 @@
     "@babel/preset-env": "^7.12.1",
     "browser-sync": "^2.26.13",
     "del": "^6.0.0",
-    "delete": "^1.1.0",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-babel": "^8.0.0",
@@ -39,8 +38,7 @@
     "gulp-tinypng-nokey": "^1.1.0",
     "gulp-uglify": "^3.0.2",
     "gulp-watch": "^5.0.1",
-    "gulp-zip": "^5.0.2",
-    "run-sequence": "^2.2.1"
+    "gulp-zip": "^5.0.2"
   },
   "dependencies": {}
 }
