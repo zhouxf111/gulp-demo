@@ -1,4 +1,4 @@
-# 功能
+## 功能
 
 1. js、css、html、images的压缩
 
